@@ -5,10 +5,12 @@ BIO 100 - Zoology (Exam Study Quiz App Guide made using Python, Tkinter, and Ttk
 Required Dependencies : 
 
 Python 3.x or later
+
   Step 1: Visit the Python website at https://www.python.org/.
   Step 2: Download the latest version of Python (3.x) for Windows.
 
 Tkinter
+
   Step 1: Open the Command Prompt by pressing Win + R and typing cmd. Hit Enter.
   Step 2: In the Command Prompt, type python and hit Enter to launch the Python interpreter.
   Step 3: Once the interpreter starts, type "import tkinter" and hit Enter.
@@ -37,6 +39,7 @@ In case Tkinter is missing, you can install it by following these steps:
   Step 4: If Python 3 is installed, Tkinter should be available by default.
 
 TTkbootstrap
+
   Run the following commands in the Terminal (Python must be installed already)
    pip install ttkbootstrap
   
