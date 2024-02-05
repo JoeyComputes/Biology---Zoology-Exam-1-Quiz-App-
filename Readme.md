@@ -1,5 +1,7 @@
 BIO 100 - Zoology (Exam Study Quiz App Guide made using Python, Tkinter, and Ttkbootstrap.
 
+*This is my first commit to GitHub*
+
 Required Dependencies : 
 
 Python 3.x or later
