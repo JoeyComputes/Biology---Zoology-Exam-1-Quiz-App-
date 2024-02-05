@@ -43,11 +43,19 @@ TTkbootstrap
   Run the following commands in the Terminal (Python must be installed already)
    pip install ttkbootstrap
   
-
 Installation - Download and Install all the dependencies
+Option 1:
    1. Click on CODE
    2. Download as a ZIP file
-   3. Open / Run main.py in Visual Studio, Visual Studio Code, XCode, etc
+   3. Open / Run main.py in Visual Studio or Visual Studio Code
+      NOTE - I have not yet made an executable file and this was my first commit. I suggest getting all the dependencies and then opening this up in VSCode and running it or run it in your own terminal.
+Option 2:
+  1. Clone the Repository:
+     git clone https://github.com/yourusername/biology-zoology-app.git
+  3. Install Dependencies:
+     pip install ttkbootstrap
+  4. Run the App:
+     python main.py
 
 Usage:
 1. Launch the app
