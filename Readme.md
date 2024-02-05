@@ -41,8 +41,8 @@ TTkbootstrap
 
 Installation 
    * Download and Install all the dependencies *
-   1. Click on "<CODE>"
-   2. Download as ZIP
+   1. Click on CODE
+   2. Download as a ZIP file
    3. Open / Run main.py in Visual Studio, Visual Studio Code, XCode, etc
 
 Usage:
