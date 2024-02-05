@@ -51,7 +51,7 @@ Option 1:
       NOTE - I have not yet made an executable file and this was my first commit. I suggest getting all the dependencies and then opening this up in VSCode and running it or run it in your own terminal.
 Option 2:
   1. Clone the Repository:
-     git clone https://github.com/yourusername/biology-zoology-app.git
+     git clone https://github.com/JoeyComputes/Biology_Zoology_Exam-1_Quiz-App.git
   3. Install Dependencies:
      pip install ttkbootstrap
   4. Run the App:
