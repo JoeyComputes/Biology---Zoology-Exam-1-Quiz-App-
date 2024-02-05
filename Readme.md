@@ -40,18 +40,10 @@ TTkbootstrap
   
 
 Installation 
-1. Clone the Repository:
-   git clone https://github.com/JoeyComputes/Biology_Zoology_Exam-1_Quiz-App.git
-2. Install Dependencies:
-   pip install ttkbootstrap
-4. Run the app
-   python main.py
-
-Another way to install
    * Download and Install all the dependencies *
-   1. Click on <CODE>
+   1. Click on "<CODE>"
    2. Download as ZIP
-   3. Run main.py
+   3. Open / Run main.py in Visual Studio, Visual Studio Code, XCode, etc
 
 Usage:
 1. Launch the app
